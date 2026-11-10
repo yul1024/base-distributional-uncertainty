@@ -1,0 +1,6 @@
+/.quarto/
+**/*.quarto_ipynb
+
+# This Project
+_book/
+index_files/
