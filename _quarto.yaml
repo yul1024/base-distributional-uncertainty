@@ -1,0 +1,16 @@
+project:
+  type: book
+
+book:
+  title: "Distributional Uncertainty"
+  author: "Yu"
+  date: today
+  keyword: distributional uncertainty, uncertainty, ambiguity, Knightian uncertainty, financial market
+
+  chapters:
+    - index.qmd
+    - research-project.qmd
+
+format:
+  html:
+    toc: true
