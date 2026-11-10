@@ -1,0 +1,19 @@
+# Project Details
+
+## Abstract of the Project
+
+Knight (1921) and Ellsberg (1961) established a fundamental distinction: risk refers to uncertainty with known probabilities, while ambiguity refers to uncertainty with unknown probabilities. People systematically prefer betting on known probability distributions, revealing that ambiguity represents a deeper form of uncertainty that cannot be captured by traditional probability theory.
+
+Modern data analytics face a critical blind spot: they account for outcome uncertainty (risk) but ignore distributional uncertainty (ambiguity). A doctor using an analytics model may expect a 99% success rate, but with significant ambiguity, true confidence could drop to 60%, potentially causing life-threatening consequences. The 1987 stock market crash represented a 22-standard-deviation event—impossible under standard models, yet it happened.
+
+This oversight is particularly consequential as AI models become integrated into critical decisions—from medical diagnostics to financial algorithms managing trillions of dollars. When AI systems are trained on one distribution but deployed where the distribution has shifted, they can fail catastrophically. Ignoring ambiguity leads to unreliable findings, underestimated errors, inflated significance, and dangerously wrong decisions.
+
+This research program develops the first comprehensive framework for understanding, measuring, and managing distributional uncertainty, delivering practical, actionable tools.
+
+Preliminary findings reveal paradigm-shifting insights: (1) total uncertainty decomposes into risk, ambiguity, and a critical interaction term that standard methods miss; (2) reducing risk can paradoxically increase overall uncertainty when ambiguity is present; (3) diversification fails under ambiguity—explaining why portfolios crashed in 2008; (4) correctly modeling ambiguity can be more effective than collecting more data.
+
+The research delivers immediately applicable tools for finance (preventing risk over- concentration, predicting crashes), healthcare (accounting for patient variability), insurance (setting sustainable premiums), and technology (building AI systems that recognize their limitations).
+
+Through collaboration with researchers, industry keynotes, and engagement with regulators (HKMA, IMF), the project creates channels for real-world impact. Financial institutions, technology companies, insurers, and regulators gain tools to avoid catastrophic failures from ambiguity blindness.
+
+This research addresses the reliability of science itself, contributing to debates about the replication crisis and erosion of trust in empirical findings. By providing mechanisms for understanding black swan events, the framework offers essential tools for managing an increasingly uncertain world.
