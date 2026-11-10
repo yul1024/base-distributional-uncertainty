@@ -1,0 +1,37 @@
+# References
+
+
+## Toward a Holistic Understanding of Distributional Uncertainty
+
+- https://research.cuhk.edu.hk/en/projects/toward-a-holistic-understanding-of-distributional-uncertainty/
+- https://www.bschool.cuhk.edu.hk/school-news/two-cuhk-business-school-faculty-members-named-rgc-senior-research-fellow-and-research-fellow-2026-27/
+
+
+## Beyond Risk: A Measure of Distribution Uncertainty
+
+- https://pubsonline.informs.org/doi/10.1287/isre.2022.0089
+- https://mikezhang.com/files/BeyondRisk_working.pdf
+
+
+## Market Uncertainties and Prediction of Rare Events: With an Application to Financial Market Crashes
+
+
+## Statistical Inference with Ambiguity
+
+- https://tencentlab.cuhk.edu.cn/en/event/7431
+
+
+## Modeling Market Uncertainty
+
+- https://research.cuhk.edu.hk/en/activities/modeling-market-uncertainty/
+
+
+## Navigating the Factor Zoo: The Science of Quantitative Investing
+
+
+## Keynote: Toward a Holistic Understanding of Distributional Uncertainty
+
+
+## Seminar: Beyond Risk & Financial Market Ambiguity
+
+
